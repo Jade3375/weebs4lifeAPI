@@ -1,6 +1,6 @@
 {
   "name": "weebs4life",
-  "version": "1.1.0",
+  "version": "1.0.11",
   "description": "api wrapper for weebs4life",
   "main": "weeb.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "discord",
     "discord.js"
   ],
-  "author": "Adorable jade#3375",
+  "author": "Neko Jade#3375",
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.0"
@@ -21,10 +21,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/floodlock/weebs4lifeAPI.git"
+    "url": "git+https://github.com/jade3375/weebs4lifeAPI.git"
   },
   "bugs": {
-    "url": "https://github.com/floodlock/weebs4lifeAPI/issues"
+    "url": "https://github.com/jade3375/weebs4lifeAPI/issues"
   },
-  "homepage": "https://github.com/floodlock/weebs4lifeAPI#readme"
+  "homepage": "https://github.com/jade3375/weebs4lifeAPI#readme"
 }
