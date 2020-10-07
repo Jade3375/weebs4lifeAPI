@@ -1,5 +1,5 @@
 # weebs4lifeAPI
-api wrapper for weebs4life.ga
+api wrapper for asuna.ga
 ```bash
 npm i weebs4life
 ```
